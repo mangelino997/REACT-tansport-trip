@@ -1,0 +1,9 @@
+[
+    {
+        "id": "001",
+        "name": "Carlos ",
+        "lastname": "García",
+        "active": true,
+        "photo": "../img/persona.png"
+    }
+]

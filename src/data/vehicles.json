@@ -1,0 +1,20 @@
+[
+    {
+        "id": "ABC 001",
+        "type": "Car",
+        "model": "2010",
+        "capacity-max": 1000 
+    },
+    {
+        "id": "AAA 101",
+        "type": "Bus",
+        "model": "2015",
+        "capacity-max": 3000 
+    },
+    {
+        "id": "ABC 001",
+        "type": "Plane",
+        "model": null,
+        "capacity-max": 5000 
+    }
+]

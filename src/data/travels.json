@@ -1,0 +1,50 @@
+[
+    {
+        "origin": "Córdoba",
+        "destination": "C.A. Buenos Aires",
+        "distance": 644.44,
+        "time-car": "7:47",
+        "time-bus": "14:00",
+        "time-plane": "1:35"
+    },
+    {
+        "origin": "Córdoba",
+        "destination": "Rosario",
+        "distance": 420.00,
+        "time-car": "4:28",
+        "time-bus": "10:00",
+        "time-plane": "00:50"
+    },
+    {
+        "origin": "Córdoba",
+        "destination": "San Luis",
+        "distance": 397.00,
+        "time-car": 5.17,
+        "time-bus": 7.30,
+        "time-plane": null
+    },
+    {
+        "origin": "C.A. Buenos Aires",
+        "destination": "Córdoba",
+        "distance": 644.44,
+        "time-car": "7:47",
+        "time-bus": "14:00",
+        "time-plane": "1:35"
+    },
+    {
+        "origin": "C.A. Buenos Aires",
+        "destination": "Rosario",
+        "distance": 287.00,
+        "time-car": "3:22",
+        "time-bus": "4:00",
+        "time-plane": null
+    },
+    {
+        "origin": "C.A. Buenos Aires",
+        "destination": "San Luis",
+        "distance": 800,
+        "time-car": "9:51",
+        "time-bus": "12:25",
+        "time-plane": null
+    }
+]
